@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://robinidesign.ba/</loc>
+    <xhtml:link rel="alternate" hreflang="bs" href="https://robinidesign.ba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://robinidesign.ba/?lang=en"/>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://robinidesign.ba/?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="bs" href="https://robinidesign.ba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://robinidesign.ba/?lang=en"/>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+</urlset>
